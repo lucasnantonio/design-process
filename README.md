@@ -1,2 +1,2 @@
 # design-process
-High-quality design resources, ordered by project phase
+Repository of high-quality questions, steps and resources for a solid 0 to 1 design process.
