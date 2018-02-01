@@ -35,6 +35,8 @@ Sit down with relevant people in the team/company to understand where they are c
     * How are people using it?
     * What are people saying about it? What do you want them to say?
 
+*(adapted from [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621))*
+
 ### Bullshit personas
 ### In-depth interviews
 
