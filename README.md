@@ -1,6 +1,6 @@
 # Design Process
 
-Repository of high-quality frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process.
+Repository of high-quality design process snippets, frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process.
 
 Content is curated from books and articles, if you know the source of something that has no credits, please submit a correction.
 
@@ -12,7 +12,7 @@ Try keeping a daily journal of your work. Describe a decision you recently made,
 ## 1. Explore the problem
 
 ### Stakeholder interviews
-Sit down with relevant people in the team/company to understand where they are coming from and what their expectations are.
+Sit down with relevant people in the team/company to understand where they are coming from and what their expectations are, and summarize the different perspectives you heard from your team.
 
 * Why did you start this project?
 * Why does this work matter?
