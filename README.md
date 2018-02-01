@@ -1,8 +1,8 @@
 # Design Process
 
-Repository of high-quality questions, steps and resources for a solid 0-to-1 product design process. It focuses on written content, template documents and frameworks to help you and your team think about the problem, so do not expect links to trendy tools, icons, etc. 
+Repository of high-quality frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process.
 
-Unfortunately references to the sources of some of this content were lost. If you recognise something as yours or another author’s, please contribute with credits.
+Content is curated from books and articles, if you know the source of something that has no credits, please submit a correction.
 
 ## Organize yourself
 ### Start a project journal 
