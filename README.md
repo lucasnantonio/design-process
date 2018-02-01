@@ -9,7 +9,7 @@ Unfortunately references to the sources of some of this content were lost. If yo
 
 Try keeping a daily journal of your work. Describe a decision you recently made, or reason through a pending decision that’s hard to make. Pose big questions you’d like to explore next in your process, or explain solutions you’d like to prototype. Unpack learnings from user research. Frame up a conversation you’d like to have with a collaborator. Whatever’s on your mind, give yourself permission to listen and document it for 10 whole minutes. (*[Melody Quintana](https://medium.com/dropbox-design/designers-who-play-with-words-2ea8a7afb9bb)*)
 
-## Understand the problem
+## Explore the problem
 
 ### Stakeholder interviews
 Sit down with relevant people in the team/company to understand where they are coming from and what their expectations are.
@@ -35,16 +35,15 @@ Sit down with relevant people in the team/company to understand where they are c
     * How are people using it?
     * What are people saying about it? What do you want them to say?
 
-
 ### Foundational Research
 
-#### Analysis
+## Synthethize the problem
+
 ##### Synthesis of interview transcripts 
 Print interviews -> Use color coded markers to highlight answers to specific questions -> Transcribe findings to post its of the corresponding colors -> Cluster and prioritise.
 (*[gov.uk](https://userresearch.blog.gov.uk/2017/12/20/how-we-did-a-large-scale-group-analysis-of-user-research-data/)*)
 
-
-## Define
+## Explore
 
 ### Envision your future headline
 Imagine yourself in a future world when your design has shipped. As you scroll through the news, you see a story about your work. What do the headline and subheadline say? Play with di erent wording and framing angles. If it’s helpful, continue the story by writing the article, or even the  rst few lines of it. Avoid discussing the  nished design in detail. Focus instead on the impact that the design has made on people —the larger story that it tells. (*[Melody Quintana](https://medium.com/dropbox-design/designers-who-play-with-words-2ea8a7afb9bb)*)
@@ -53,9 +52,6 @@ Imagine yourself in a future world when your design has shipped. As you scroll t
 Obvious is all about always. The thing(s) people do all the time, the always stu , should be obvious. The core, the epicenter, the essence of the product should be obvious.
 Beyond obvious, you’ll  nd easy. The things that should be easy are the things that people do frequently, but not always. And  nally are the things that are possible. These are things people do sometimes. Rarely, even. So they don’t need to be front and center, but they need to be possible.
 (*[Jason Fried](https://signalvnoise.com/posts/3047-the-obvious-the-easy-and-the-possible)*)
-
-
-## Explore
 
 ## Validade
 
