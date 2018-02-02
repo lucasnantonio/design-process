@@ -1,6 +1,6 @@
 # Design Process
 
-Repository of *high-quality* design process advice, snippets, frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process.
+Repository of *high-quality* design process advice, snippets, frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process. Design is not perfectly linear so be reminded this is not a checklist. Pick and choose whatever works for your project.
 
 Content is curated from books and articles, if you know the source of something that has no credits, please submit a correction.
 
