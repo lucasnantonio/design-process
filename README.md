@@ -37,8 +37,10 @@ Sit down with relevant people in the team/company to understand where they are c
 
 *(adapted from [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621))*
 
+### Backwards research
 ### Bullshit personas
 ### In-depth interviews
+
 
 
 ## 2. Synthethize the problem
