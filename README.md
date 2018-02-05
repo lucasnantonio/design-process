@@ -40,6 +40,15 @@ Sit down with relevant people in the team/company to understand where they are c
 ### Backwards research
 ### Bullshit personas
 ### In-depth interviews
+#### Never ask users what they want
+Asking users what they want will give you answers based on their limited experience. You are the expert in problem-solving, not them. Instead, ask these:
+
+- What are you trying to get done?
+- Why? Why? Why? Why? Why?
+- Can you show me how you do it?
+- Can you show me what’s frustrating about this current process?
+
+*(adapted from [Charles Liu](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e))*
 
 
 
