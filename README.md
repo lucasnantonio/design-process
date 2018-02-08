@@ -37,6 +37,13 @@ Sit down with relevant people in the team/company to understand where they are c
 
 *(adapted from [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621))*
 
+### Listing assumptions and hypothesis to be tested
+* What is the definition of success for this project?
+* In order to achieve that, what needs to be true? (What are we assuming to be true about users or about our capabilities?
+* Let’s imagine we can travel to the future and see that the project failed. What were the causes?
+*(adapted from [Sprint](https://www.thesprintbook.com/))*
+
+
 ### Backwards research
 ### Bullshit personas
 ### In-depth interviews
