@@ -46,6 +46,17 @@ Sit down with relevant people in the team/company to understand where they are c
 *(adapted from [Sprint](https://www.thesprintbook.com/))*
 
 ## 2. Research
+### Backwards research
+
+1. Determine how the research results will be implemented (which helps to define the problem & the decisions you need to make).
+2. To ensure the implementation of the results, determine what the final report should contain and how it should look.
+3. Specify the analyses necessary to “fill in the blanks” in the research report.
+4. Determine the kind of data that must be assembled to carry out these analyses.
+5. Scan the available secondary sources and/or syndicated services to see whether the specified data already exist or can be obtained quickly and cheaply from others. (While you are at it, observe how others have tried to meet data needs like your own.)
+6. If no such easy way out presents itself, design instruments and a sampling plan that will yield the data to fit the analyses you have to undertake.
+7. Carry out the field work, continually checking to see whether the data will meet your needs. 8. Do the analysis, write the report, and watch it have its intended effect.
+
+*(source [HBR](https://hbr.org/1985/05/backward-market-research) and [GV](https://www.youtube.com/watch?v=VW6wcuEAF0I))*
 ### In-depth interviews
 #### Never ask users what they want
 Asking users what they want will give you answers based on their limited experience. You are the expert in problem-solving, not them. Instead, ask these:
