@@ -72,10 +72,16 @@ Asking users what they want will give you answers based on their limited experie
 
 ## 3. Synthethize the problem
 
+
 #### Synthesis of interview transcripts 
 Print interviews -> Use color coded markers to highlight answers to specific questions -> Transcribe findings to post its of the corresponding colors -> Cluster and prioritise.
 
-(*[gov.uk](https://userresearch.blog.gov.uk/2017/12/20/how-we-did-a-large-scale-group-analysis-of-user-research-data/)*)
+*(source: [gov.uk](https://userresearch.blog.gov.uk/2017/12/20/how-we-did-a-large-scale-group-analysis-of-user-research-data/)*)
+
+#### Rose, bud, thorn technique
+It’s a way of coding the transcript, so when you go to do interviews you code them using these three colors. Rose is pink, where you capture things that are working well. Things in green are called buds, which seem to have potential for improvement. And blue, thorns, are pain points. So I go through my notes, and I codify that based on those three aspects, and then I start grouping all of those notes by categories, by topic, so in the end I will have very different clusters with the topics, and maybe one topic is really blue, it’s very thorny, and that’s a pain point, clearly. Or an area is very green, and that means that there’s a lot of opportunity to do something about that topic.
+
+*(source: [Begoña Chorén](https://creatorsandcreatives.com/the-art-of-ux-research-according-to-bego%C3%B1a-chor%C3%A9n-jim%C3%A9nez-lead-ux-researcher-at-autodesk-56858f505ce6))*
 
 ### Personas
 
