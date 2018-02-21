@@ -44,7 +44,9 @@ Sit down with relevant people in the team/company to understand where they are c
 
 Here is a general formula you can use to write a problem hypothesis:
 
-`Because [assumptions and gut instincts about the problem], users are [in some undesirable state]. They need [solution idea].`
+```
+Because [assumptions and gut instincts about the problem], users are [in some undesirable state]. They need [solution idea].
+```
 
 Example:
 
@@ -137,12 +139,16 @@ It’s a way of coding the transcript, so when you go to do interviews you code 
 ### Product Mad Libs
 Write down several words for each of these and discuss them with your client.
 
-```{product name} {helps/lets} {audience noun} {verb} and {verb} {object} so they can {verb} {adverb}.```
+```
+{product name} {helps/lets} {audience noun} {verb} and {verb} {object} so they can {verb} {adverb}.
+```
 
 Example:
 > Meetup helps people with specific interests discover and join local communities so they can meet in the real world.
 
-```{Sign up for/Join} {product name} to {verb} {plural noun} with {secondary audience noun}.```
+```
+{Sign up for/Join} {product name} to {verb} {plural noun} with {secondary audience noun}.
+```
 
 Example:
 > Join Meetup to create and find local groups with people that share your interests!
