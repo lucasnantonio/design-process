@@ -1,11 +1,6 @@
-# Design Process
-
-Repository of *high-quality* design process advice, snippets, frameworks, thinking tools, questions and exercises for a solid 0-to-1 product design process. Design is not perfectly linear so be reminded this is not a checklist. Pick and choose whatever works for your project.
-
-Content is curated from books and articles, if you know the source of something that has no credits, please submit a correction.
 
 ## 0. Set the stage
-### Start a project journal 
+### Start a project journal
 
 Try keeping a daily journal of your work. Describe a decision you recently made, or reason through a pending decision that’s hard to make. Pose big questions you’d like to explore next in your process, or explain solutions you’d like to prototype. Unpack learnings from user research. Frame up a conversation you’d like to have with a collaborator. Whatever’s on your mind, give yourself permission to listen and document it for 10 whole minutes. (*[Melody Quintana](https://medium.com/dropbox-design/designers-who-play-with-words-2ea8a7afb9bb)*)
 
@@ -22,7 +17,7 @@ Sit down with relevant people in the team/company to understand where they are c
 * From your perspective, what are some of the critical audiences for [website url]?
 * If you had to choose one, who would you say is the primary audience?
 * Describe where you want to take people. What does the world look like if you’re successful?
-* What do you know about your customers? 
+* What do you know about your customers?
 * What don’t you know about your customers?
 * How do think people cope today, without the product you’re about to build?
 * If a customer was telling a friend about your product, what would you want them to say?
@@ -45,13 +40,13 @@ Sit down with relevant people in the team/company to understand where they are c
 
 *(adapted from [Sprint](https://www.thesprintbook.com/))*
 
---- 
+---
 
 Here is a general formula you can use to write a problem hypothesis:
 
 `Because [assumptions and gut instincts about the problem], users are [in some undesirable state]. They need [solution idea].`
 
-Example: 
+Example:
 
 >Because their business model relies on advertising, social media tools like Facebook are deliberately designed to “hook” users and make them addicted to the service. Users are unhappy with this and would rather have a healthier relationship with social media tools. They would be willing to pay for a social media service that was designed with mental health in mind.
 
@@ -99,7 +94,7 @@ Asking users what they want will give you answers based on their limited experie
 
 *(source [Charles Liu](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e))*
 
---- 
+---
 To be clear, your interviewees will not tell you:
 
 - what to build;
@@ -125,7 +120,7 @@ One common mistake is to spend too much time investigating what’s wrong with t
 ### Color coding techniques for interview transcripts
 
 #### By answers to study questions
-1. Print interviews 
+1. Print interviews
 2. Choose one color to each study question
 3. Assign one color to each team member
 4. Each team member highlights text with their color whenever there’s information about the question
@@ -158,10 +153,10 @@ Example:
 
 ### Co-design exercise
 
-This is an exercise that is great to help a large group of people feel like they have a say in a project, and generate ideas from many different perspectives in an organization. 
+This is an exercise that is great to help a large group of people feel like they have a say in a project, and generate ideas from many different perspectives in an organization.
 
 1. Set an 8-up sketchboard template and pencil at each place where someone will be sitting.
-2. Instruct them that they have to come up with 6 or more prototype ideas for the problem at hand (e.g. a home page, a critical sub page, an application) on the sheet. They should do rough sketches with text and minimal annotation. 
+2. Instruct them that they have to come up with 6 or more prototype ideas for the problem at hand (e.g. a home page, a critical sub page, an application) on the sheet. They should do rough sketches with text and minimal annotation.
 3. Encourage them that anyone can sketch, and to use basic shapes (rectangles, lines, circles, triangles, arrows) if they feel challenged.Set a time limit. For the first round, 10 minutes or so is fine.
 4. Start the clock, and allow them to sketch. Game show or other similar music can add to the experience.
 5. At the end of the time limit, have each person pair up with someone who is not a member of their department of organization. Allow them to spend time presenting their ideas to each other, then critiquing those ideas. 2 minutes for presentation and 3 minutes for critique should be sufficient for each person (10 minutes total.)
@@ -175,7 +170,7 @@ Note: With larger groups, you may want easel size sticky notes for later prototy
 *(source Todd Zaki Warfel’s book Prototyping: A Practitioner’s Guide and [Good Kickoff meetings](http://goodkickoffmeetings.com/2010/04/stakeholder-frontloading/))*
 
 ### Envision your future headline
-Imagine yourself in a future world when your design has shipped. As you scroll through the news, you see a story about your work. What do the headline and subheadline say? Play with di erent wording and framing angles. If it’s helpful, continue the story by writing the article, or even the  rst few lines of it. Avoid discussing the  nished design in detail. Focus instead on the impact that the design has made on people —the larger story that it tells. 
+Imagine yourself in a future world when your design has shipped. As you scroll through the news, you see a story about your work. What do the headline and subheadline say? Play with di erent wording and framing angles. If it’s helpful, continue the story by writing the article, or even the  rst few lines of it. Avoid discussing the  nished design in detail. Focus instead on the impact that the design has made on people —the larger story that it tells.
 
 (*[Melody Quintana](https://medium.com/dropbox-design/designers-who-play-with-words-2ea8a7afb9bb)*)
 
