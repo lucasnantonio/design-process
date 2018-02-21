@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Space+Mono:400,400i,700,700i');
+
+html{
+  font-size: 17px;
+}
+
+*{
+  line-height: 1.65em;
+}
+body, code{
+  font-size: 1rem;
+  font-family: 'Space Mono', sans-serif;
+  color: #777;
+}
+
+h1, h2, h3, h4, h5{
+  font-size: 1rem;
+  color: black;
+  padding-bottom: .5rem;
+  padding-top: 1rem;
+  line-height: 1.4em;
+}
+
+h2:not(:first-of-type){
+  margin-top: 5rem;
+}
+h2{
+  border-top: .125rem solid black;
+}
+p, ul li{
+  padding: .5rem 0rem;
+}
+a{
+  color: red;
+  font-style: normal;
+  &:hover{
+    color:black;
+  }
+}
+code{
+  background-color: #f7f7f7;
+  font-size: 1rem;
+  padding: .2rem;
+}
+pre {
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
