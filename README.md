@@ -34,7 +34,7 @@ Sit down with relevant people in the team/company to understand where they are c
 * Who else is involved?
 * What’s happening next?
 
-*(adapted from [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621) and [Good Kickoff meetings](http://goodkickoffmeetings.com/2010/04/stakeholder-frontloading/))*
+*(sources [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621) and [Good Kickoff meetings](http://goodkickoffmeetings.com/2010/04/stakeholder-frontloading/))*
 
 
 
@@ -76,6 +76,8 @@ I now have two hypotheses to test against one another: one focused on social med
 ## 2. Research
 ### Backwards research
 
+Do your research based on the outcomes you need from it. Define the decisions your team needs to make, and work backwards to find which methods to use and which questions to ask:
+
 1. Determine how the research results will be implemented (which helps to define the problem & the decisions you need to make).
 2. To ensure the implementation of the results, determine what the final report should contain and how it should look.
 3. Specify the analyses necessary to “fill in the blanks” in the research report.
@@ -95,7 +97,7 @@ Asking users what they want will give you answers based on their limited experie
 - Can you show me how you do it?
 - Can you show me what’s frustrating about this current process?
 
-*(adapted from [Charles Liu](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e))*
+*(source [Charles Liu](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e))*
 
 --- 
 To be clear, your interviewees will not tell you:
@@ -120,12 +122,19 @@ One common mistake is to spend too much time investigating what’s wrong with t
 
 ## 3. Synthethize the problem
 
-#### Synthesis of interview transcripts 
-Print interviews -> Use color coded markers to highlight answers to specific questions -> Transcribe findings to post its of the corresponding colors -> Cluster and prioritise.
+### Color coding techniques for interview transcripts
+
+#### By answers to study questions
+1. Print interviews 
+2. Choose one color to each study question
+3. Assign one color to each team member
+4. Each team member highlights text with their color whenever there’s information about the question
+3. Transcribe findings to post its of the corresponding colors
+4. Cluster and prioritise.
 
 *(source: [gov.uk](https://userresearch.blog.gov.uk/2017/12/20/how-we-did-a-large-scale-group-analysis-of-user-research-data/)*)
 
-#### Rose, bud, thorn technique
+#### By rose, bud & thorn technique
 It’s a way of coding the transcript, so when you go to do interviews you code them using these three colors. Rose is pink, where you capture things that are working well. Things in green are called buds, which seem to have potential for improvement. And blue, thorns, are pain points. So I go through my notes, and I codify that based on those three aspects, and then I start grouping all of those notes by categories, by topic, so in the end I will have very different clusters with the topics, and maybe one topic is really blue, it’s very thorny, and that’s a pain point, clearly. Or an area is very green, and that means that there’s a lot of opportunity to do something about that topic.
 
 *(source: [Begoña Chorén](https://creatorsandcreatives.com/the-art-of-ux-research-according-to-bego%C3%B1a-chor%C3%A9n-jim%C3%A9nez-lead-ux-researcher-at-autodesk-56858f505ce6))*
@@ -135,7 +144,15 @@ Write down several words for each of these and discuss them with your client.
 
 ```{product name} {helps/lets} {audience noun} {verb} and {verb} {object} so they can {verb} {adverb}.```
 
+Example:
+> Meetup helps people with specific interests discover and join local communities so they can meet in the real world.
+
 ```{Sign up for/Join} {product name} to {verb} {plural noun} with {secondary audience noun}.```
+
+Example:
+> Join Meetup to create and find local groups with people that share your interests!
+
+*(source [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621))*
 
 ## 4. Explore solutions
 
@@ -143,13 +160,19 @@ Write down several words for each of these and discuss them with your client.
 
 This is an exercise that is great to help a large group of people feel like they have a say in a project, and generate ideas from many different perspectives in an organization. 
 
-Set an 8-up sketchboard template and pencil at each place where someone will be sitting.Instruct them that they have to come up with 6 or more prototype ideas for the problem at hand (e.g. a home page, a critical sub page, an application) on the sheet. They should do rough sketches with text and minimal annotation. Encourage them that anyone can sketch, and to use basic shapes (rectangles, lines, circles, triangles, arrows) if they feel challenged.Set a time limit. For the first round, 10 minutes or so is fine.Start the clock, and allow them to sketch. Game show or other similar music can add to the experience.
+1. Set an 8-up sketchboard template and pencil at each place where someone will be sitting.
+2. Instruct them that they have to come up with 6 or more prototype ideas for the problem at hand (e.g. a home page, a critical sub page, an application) on the sheet. They should do rough sketches with text and minimal annotation. 
+3. Encourage them that anyone can sketch, and to use basic shapes (rectangles, lines, circles, triangles, arrows) if they feel challenged.Set a time limit. For the first round, 10 minutes or so is fine.
+4. Start the clock, and allow them to sketch. Game show or other similar music can add to the experience.
+5. At the end of the time limit, have each person pair up with someone who is not a member of their department of organization. Allow them to spend time presenting their ideas to each other, then critiquing those ideas. 2 minutes for presentation and 3 minutes for critique should be sufficient for each person (10 minutes total.)
+6. While the discussion is taking place, hand out a 1-up sketchboard templates to each group.
+7. Have them collaborate on a new prototype sketch using the 1-up sketchboard template.
 
-At the end of the time limit, have each person pair up with someone who is not a member of their department of organization.Allow them to spend time presenting their ideas to each other, then critiquing those ideas. 2 minutes for presentation and 3 minutes for critique should be sufficient for each person (10 minutes total.)While the discussion is taking place, hand out a 1-up sketchboard templates to each group.Have them collaborate on a new prototype sketch using the 1-up sketchboard template.
+Repeat, but each time have the groups combine into new groups that are twice the size of the previous. Groups of 2 become groups of 4, groups of 4 become groups of 8, and so on.
 
-Repeat, but each time have the groups combine into new groups that are twice the size of the previous. Groups of 2 become groups of 4, groups of 4 become groups of 8, and so on.Note: With larger groups, you may want easel size sticky notes for later prototypes, or have technology in place (digital camera or document projector) to display the prototypes on the screen.Once you are down to 2 – 4 large groups, do presentations and critiques for the entire group.Collect the sketches for review by your team.
+Note: With larger groups, you may want easel size sticky notes for later prototypes, or have technology in place (digital camera or document projector) to display the prototypes on the screen.Once you are down to 2 – 4 large groups, do presentations and critiques for the entire group.Collect the sketches for review by your team.
 
-*(adapted from Todd Zaki Warfel’s book Prototyping: A Practitioner’s Guide and [Good Kickoff meetings](http://goodkickoffmeetings.com/2010/04/stakeholder-frontloading/))*
+*(source Todd Zaki Warfel’s book Prototyping: A Practitioner’s Guide and [Good Kickoff meetings](http://goodkickoffmeetings.com/2010/04/stakeholder-frontloading/))*
 
 ### Envision your future headline
 Imagine yourself in a future world when your design has shipped. As you scroll through the news, you see a story about your work. What do the headline and subheadline say? Play with di erent wording and framing angles. If it’s helpful, continue the story by writing the article, or even the  rst few lines of it. Avoid discussing the  nished design in detail. Focus instead on the impact that the design has made on people —the larger story that it tells. 
