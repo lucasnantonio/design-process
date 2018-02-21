@@ -45,6 +45,34 @@ Sit down with relevant people in the team/company to understand where they are c
 
 *(adapted from [Sprint](https://www.thesprintbook.com/))*
 
+--- 
+
+Here is a general formula you can use to write a problem hypothesis:
+
+`Because [assumptions and gut instincts about the problem], users are [in some undesirable state]. They need [solution idea].`
+
+Example: 
+
+>Because their business model relies on advertising, social media tools like Facebook are deliberately designed to “hook” users and make them addicted to the service. Users are unhappy with this and would rather have a healthier relationship with social media tools. They would be willing to pay for a social media service that was designed with mental health in mind.
+
+You can see in this example that my assumptions are:
+
+- Users feel that social media sites like Facebook are addictive.
+- Users don’t like to be addicted to social media.
+- Users would be willing to pay for a non-addictive Facebook replacement.
+
+These are the assumptions I’ll be researching and testing throughout the discovery process. If I find through my research that I cannot readily affirm these assumptions, it means I might not be ready to take on Mr. Zuckerberg just yet.
+
+In my example, the interview research brought to light a new concern about social media I previously hadn’t considered: the “creepy” collection of personal data. I am left wondering, Would potential customers be more attracted to the idea of a social media platform built to prevent addiction, or one built for data privacy? To answer this question, I articulated a new, competing hypothesis:
+
+> Because their business model relies on advertising, social media tools like Facebook are designed to gather lots of behavior data. They then utilize this behavior data to create super-targeted ads. Users are unhappy with this, and would rather use a social media tool that does not rely on the commodification of their data to make money. They would be willing to pay for a social media service that did not track their use and behavior.
+
+I now have two hypotheses to test against one another: one focused on social media addiction, the other focused on behavior tracking and data collection.
+
+
+
+*(source [A List Apart](http://alistapart.com/article/discovery-on-a-budget-part-i))*
+
 ## 2. Research
 ### Backwards research
 
@@ -57,6 +85,7 @@ Sit down with relevant people in the team/company to understand where they are c
 7. Carry out the field work, continually checking to see whether the data will meet your needs. 8. Do the analysis, write the report, and watch it have its intended effect.
 
 *(source [HBR](https://hbr.org/1985/05/backward-market-research) and [GV](https://www.youtube.com/watch?v=VW6wcuEAF0I))*
+
 ### In-depth interviews
 #### Never ask users what they want
 Asking users what they want will give you answers based on their limited experience. You are the expert in problem-solving, not them. Instead, ask these:
@@ -68,10 +97,28 @@ Asking users what they want will give you answers based on their limited experie
 
 *(adapted from [Charles Liu](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e))*
 
+--- 
+To be clear, your interviewees will not tell you:
 
+- what to build;
+- or how to build it.
+
+But they absolutely can tell you:
+
+- what problem they have;
+- how they feel about it;
+- and what the value of a solution would mean to them.
+
+always ask the following two questions:
+
+“What do you like about [blank]?”
+“What do you dislike about [blank]?”
+
+One common mistake is to spend too much time investigating what’s wrong with the current state of affairs. Naturally, you want your product to fix all the problems your customers face. However, you also need to preserve what currently works well, what is satisfying, or what is otherwise good about how users accomplish their goals currently. So it is important to ask about both in user interviews.
+
+*(source [A List Apart](http://alistapart.com/article/discovery-on-a-budget-part-i))*
 
 ## 3. Synthethize the problem
-
 
 #### Synthesis of interview transcripts 
 Print interviews -> Use color coded markers to highlight answers to specific questions -> Transcribe findings to post its of the corresponding colors -> Cluster and prioritise.
@@ -82,10 +129,6 @@ Print interviews -> Use color coded markers to highlight answers to specific que
 It’s a way of coding the transcript, so when you go to do interviews you code them using these three colors. Rose is pink, where you capture things that are working well. Things in green are called buds, which seem to have potential for improvement. And blue, thorns, are pain points. So I go through my notes, and I codify that based on those three aspects, and then I start grouping all of those notes by categories, by topic, so in the end I will have very different clusters with the topics, and maybe one topic is really blue, it’s very thorny, and that’s a pain point, clearly. Or an area is very green, and that means that there’s a lot of opportunity to do something about that topic.
 
 *(source: [Begoña Chorén](https://creatorsandcreatives.com/the-art-of-ux-research-according-to-bego%C3%B1a-chor%C3%A9n-jim%C3%A9nez-lead-ux-researcher-at-autodesk-56858f505ce6))*
-
-### Personas
-
-### Four forces of switching
 
 ### Product Mad Libs
 Write down several words for each of these and discuss them with your client.
