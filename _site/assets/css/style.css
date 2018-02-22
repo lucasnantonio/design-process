@@ -214,7 +214,7 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   header ul { width: 99%; }
   header li, header ul li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
-html { font-size: 17px; }
+html { font-size: 18px; }
 
 * { line-height: 1.65em; }
 
@@ -224,9 +224,21 @@ h1, h2, h3, h4, h5 { font-size: 1rem; color: black; padding-bottom: .5rem; paddi
 
 h2:not(:first-of-type) { margin-top: 5rem; }
 
-h2 { border-top: .125rem solid black; }
+h2 { line-height: 1rem; border-top: .125rem solid black; }
 
-p, ul li { padding: .5rem 0rem; }
+h2 span { line-height: 1rem; }
+
+p, ul li, ol li { padding: .4rem 0rem; }
+
+ol.rounded-list { list-style-type: none; }
+
+ol li { width: auto; float: none; border: none; height: inherit; }
+
+ol li a { color: black; }
+
+ol li.rounded-list-item { font-size: .7rem; counter-increment: item; margin-bottom: 5px; }
+
+ol li.rounded-list-item:before { margin-right: .5rem; content: counter(item); background: red; border-radius: 100%; color: white; width: 1.5em; height: 1.5em; line-height: 1.5em; text-align: center; display: inline-block; font-size: .7rem; }
 
 a { color: red; font-style: normal; }
 a:hover { color: black; }
@@ -234,3 +246,5 @@ a:hover { color: black; }
 code { background-color: #f7f7f7; font-size: 1rem; padding: .2rem; }
 
 pre { white-space: pre-wrap; /* css-3 */ white-space: -moz-pre-wrap; /* Mozilla, since 1999 */ white-space: -pre-wrap; /* Opera 4-6 */ white-space: -o-pre-wrap; /* Opera 7 */ word-wrap: break-word; /* Internet Explorer 5.5+ */ }
+
+.anchor { display: block; position: relative; margin-top: -250px; }

@@ -1,10 +1,8 @@
+## 1. Kickoff
 
-## 0. Set the stage
 ### Start a project journal
 
 Try keeping a daily journal of your work. Describe a decision you recently made, or reason through a pending decision that’s hard to make. Pose big questions you’d like to explore next in your process, or explain solutions you’d like to prototype. Unpack learnings from user research. Frame up a conversation you’d like to have with a collaborator. Whatever’s on your mind, give yourself permission to listen and document it for 10 whole minutes. (*[Melody Quintana](https://medium.com/dropbox-design/designers-who-play-with-words-2ea8a7afb9bb)*)
-
-## 1. Project Kickoff
 
 ### Stakeholder interviews
 Sit down with relevant people in the team/company to understand where they are coming from and what their expectations are.
@@ -70,7 +68,7 @@ I now have two hypotheses to test against one another: one focused on social med
 
 *(source [A List Apart](http://alistapart.com/article/discovery-on-a-budget-part-i))*
 
-## 2. Research
+## 3. Research
 ### Backwards research
 
 Do your research based on the outcomes you need from it. Define the decisions your team needs to make, and work backwards to find which methods to use and which questions to ask:
@@ -117,7 +115,7 @@ One common mistake is to spend too much time investigating what’s wrong with t
 
 *(source [A List Apart](http://alistapart.com/article/discovery-on-a-budget-part-i))*
 
-## 3. Synthethize the problem
+## 4. Synthethize the problem
 
 ### Color coding techniques for interview transcripts
 
@@ -155,7 +153,7 @@ Example:
 
 *(source [Nicole Slaw](https://gist.github.com/nicoleslaw/2155621))*
 
-## 4. Explore solutions
+## 5. Explore solutions
 
 ### Co-design exercise
 
@@ -188,6 +186,6 @@ Beyond obvious, you’ll  nd easy. The things that should be easy are the things
 
 ## 4. Validade solutions
 
-## 5. Deliver MVP
+## 5. MVP
 
 ## 6. Track metrics
