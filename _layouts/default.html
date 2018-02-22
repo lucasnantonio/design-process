@@ -37,7 +37,7 @@
         {% if site.github.is_project_page %}
         <p><small>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
         {% endif %}
-        <script type="text/javascript" src="/assets/js/index.js">
+        <script type="text/javascript" src="{{ '/assets/js/index.js' | relative_url}}">
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
