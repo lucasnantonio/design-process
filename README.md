@@ -1,3 +1,5 @@
+{{TOC}}
+
 ## 1. Kickoff
 
 ### Start a project journal
@@ -69,6 +71,10 @@ I now have two hypotheses to test against one another: one focused on social med
 *(source [A List Apart](http://alistapart.com/article/discovery-on-a-budget-part-i))*
 
 ## 3. Research
+
+### On surveys
+Regardless of the context in which you’re surveying, best practice is to conduct preliminary user interviews before developing hypotheses. During this process, your team will transform generalizations and assumptions about the market into user-focused questions. Once you have your hypotheses, you can modify research questions into a survey questionnaire to share across your team for feedback.  
+
 ### Backwards research
 
 Do your research based on the outcomes you need from it. Define the decisions your team needs to make, and work backwards to find which methods to use and which questions to ask:
@@ -183,6 +189,13 @@ Obvious is all about always. The thing(s) people do all the time, the always stu
 Beyond obvious, you’ll  nd easy. The things that should be easy are the things that people do frequently, but not always. And  nally are the things that are possible. These are things people do sometimes. Rarely, even. So they don’t need to be front and center, but they need to be possible.
 
 (*[Jason Fried](https://signalvnoise.com/posts/3047-the-obvious-the-easy-and-the-possible)*)
+
+### Beware of bullshit buttons
+Start by understanding the actual goal and desired result. Next, pinpoint the Bullshit Button. And remember: they are more than just regular physical switches and often not easily seen as superfluous.
+
+Now identify the natural intent preceding the redundant activity. What you’re looking at, reaching for, saying out loud, thinking of; all are expressions of natural intent. Finally, design the intent-driven reaction replacing the Bullshit Button, creating a better and more magical experience.
+
+*(source [Jan van der Asdonk](https://medium.com/handmade-amsterdam/buttons-are-bullshit-4e8b5cd64100))*
 
 ## 4. Validade solutions
 

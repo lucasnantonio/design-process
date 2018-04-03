@@ -218,7 +218,7 @@ html { font-size: 18px; }
 
 * { line-height: 1.65em; }
 
-body, code { font-size: 1rem; font-family: 'Space Mono', sans-serif; color: #777; }
+body, code { font-size: 1rem; font-family: sans-serif; color: #777; }
 
 h1, h2, h3, h4, h5 { font-size: 1rem; color: black; padding-bottom: .5rem; padding-top: 1rem; line-height: 1.4em; }
 
