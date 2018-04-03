@@ -74,6 +74,9 @@ I now have two hypotheses to test against one another: one focused on social med
 
 ### On surveys
 Regardless of the context in which you’re surveying, best practice is to conduct preliminary user interviews before developing hypotheses. During this process, your team will transform generalizations and assumptions about the market into user-focused questions. Once you have your hypotheses, you can modify research questions into a survey questionnaire to share across your team for feedback.  
+*(source [Google Design](https://design.google/library/survey-methods-connecting-global-audience/))*
+
+
 
 ### Backwards research
 
